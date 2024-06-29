@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["İstanbul Roleplayın kendi discord botudur."];
 
 
 let currentIndex = 0;
